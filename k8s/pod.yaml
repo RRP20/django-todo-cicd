@@ -10,7 +10,7 @@ spec:
 
   containers:
 
-  - name: todo-app
+  - name: todo-app 123
 
     image: trainwithshubham/django-todo:latest
 
